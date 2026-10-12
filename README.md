@@ -39,3 +39,25 @@ The use of a structured Parameter List (available in `Parameter List for UPDSF v
 ---
 This commitment to transparency transforms the model from a "black box" into an open scientific framework for prebiotic chemistry research.
 ---
+
+---
+## 🧪 Note on Parameter Distribution & Model Robustness
+
+A transparent review of our provenance tracking reveals that approximately 46% of the model parameters are based on direct literature values, while the remainder are assumed, imposed, or derived. In many traditional models, this might be seen as a limitation; however, in the context of Prebiotic Chemistry, this distribution is a deliberate and necessary architectural choice for the following reasons:
+
+### 1. The "Data Gap" in Prebiotic Conditions
+Experimental data for nucleobase stability at extreme conditions (e.g., $T = 90^\circ\text{C}$ and $\text{pH} = 11.0$) is sparse or non-existent in current literature. To bridge this gap, we employ physicochemical heuristics—educated assumptions based on known chemical trends—to allow the model to explore plausible prebiotic scenarios that have not yet been tested in a wet lab.
+
+### 2. Heuristics as Hypotheses
+The `Assumed` and `Imposed` parameters are not "guesses"; they are formalized hypotheses*. By explicitly tagging them as such, we distinguish between known chemical facts and model-driven predictions. This transparency allows other researchers to easily adjust these specific values to test the boundaries of our conclusions.
+
+### 3. Robustness through Sensitivity Analysis
+To compensate for the reliance on assumed values, we conducted extensive *Global Sensitivity Sweeps. Our results demonstrate that the enrichment of Thymine over Uracil is not dependent on the fine-tuning of a single assumed parameter, but emerges from the fundamental kinetic gap (e.g., $\Delta E_a$) provided by the literature-based constants. 
+
+### 4. A Framework for Future Experimentation
+We view the `Assumed` parameters as targets for future experimental validation*. The UPDSF v6.0.1 model identifies exactly which "unknowns" (e.g., specific deamination rates of free monomers) most significantly impact the results, thereby providing a roadmap for experimentalists to prioritize their lab work.
+
+---
+By disclosing the exact ratio of literature-to-assumed parameters, we move away from "black-box" simulations toward a verifiable, iterative scientific process.
+---
+
