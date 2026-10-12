@@ -5,7 +5,7 @@
 
 # 🔍 Comparative Analysis: UPDSF v6.0.1 vs. UV-Driven Selection Models
 
-This document provides a theoretical bridge between the results of the *UPDSF v6.0.1* framework and recent research regarding UV-induced selection of Thymine over Uracil (e.g., Khosh Abady et al., 2026).
+This document provides a theoretical bridge between the results of the *UPDSF v6.0.1* framework and recent research regarding UV-induced selection of Thymine over Uracil (e.g., Khosh Abady et al., 2026 - https://doi.org/10.1073/pnas.2615278123).
 
 ## 📌 The Core Debate: Photochemical vs. Thermochemical Selection
 
