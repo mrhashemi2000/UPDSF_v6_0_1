@@ -1,3 +1,8 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289539-blue)](https://doi.org/10.5281/zenodo.23289539) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289650-blue)](https://doi.org/10.5281/zenodo.23289650) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
 # 🔍 Comparative Analysis: UPDSF v6.0.1 vs. UV-Driven Selection Models
 
 This document provides a theoretical bridge between the results of the *UPDSF v6.0.1* framework and recent research regarding UV-induced selection of Thymine over Uracil (e.g., Khosh Abady et al., 2026).
