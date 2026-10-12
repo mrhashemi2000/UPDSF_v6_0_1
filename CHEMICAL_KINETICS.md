@@ -1,3 +1,7 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289539-blue)](https://doi.org/10.5281/zenodo.23289539) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289650-blue)](https://doi.org/10.5281/zenodo.23289650) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 
 
 ## 🔬 Deep Dive: Chemical Kinetics of T-over-U Selection
