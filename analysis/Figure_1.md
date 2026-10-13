@@ -1,4 +1,16 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289539-blue)](https://doi.org/10.5281/zenodo.23289539) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289650-blue)](https://doi.org/10.5281/zenodo.23289650) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+<br>
+<br>
+
+
 <img width="4500" height="4419" alt="optimal_simulation_v601_chemical" src="https://github.com/user-attachments/assets/97e81e89-5df5-4dcb-b20d-c5fa46f4b800" />
+
+<br>
+<br>
+
 
 ## 🔬 Figure 1: Baseline Chemical Filtering & Selection Dynamics (Optimal Conditions: T = 90°C, pH = 11.00)
 
