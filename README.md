@@ -26,9 +26,10 @@ To ensure the scientific integrity and reproducibility of the *UPDSF v6.0.1 mode
 <br>
 <br>
 
-📂 **Detailed UPDSF v6.0.1 model Parameter List**
+📂 **Complete Provenance-Tracked Parameter List for UPDSF v6.0.1 Model**
 
-The Detailed UPDSF v6.0.1 model Parameter List can be found in the 📄 [Detailed Parameter List](data/Parameter_List_for_UPDSF_v6.0.1_Model.docx)
+
+The Complete Provenance-Tracked Parameter List for UPDSF v6.0.1 Model can be found in the 📄 [Detailed Parameter List](data/Parameter_List_for_UPDSF_v6.0.1_Model.docx)
 
 <br>
 <br>
