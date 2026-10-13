@@ -1,4 +1,14 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289539-blue)](https://doi.org/10.5281/zenodo.23289539) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289650-blue)](https://doi.org/10.5281/zenodo.23289650) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+<br>
+<br>
+
 <img width="7170" height="1631" alt="flux_sweep_v601" src="https://github.com/user-attachments/assets/e38418b2-1669-40e9-a304-0f1216e394dd" />
+
+<br>
+<br>
 
 ## 🔬 Figure 4: UV Robustness & Selection-Destruction Trade-Off Analysis
 
