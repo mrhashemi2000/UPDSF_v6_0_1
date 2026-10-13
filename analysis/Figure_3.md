@@ -1,4 +1,14 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289539-blue)](https://doi.org/10.5281/zenodo.23289539) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23289650-blue)](https://doi.org/10.5281/zenodo.23289650) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+<br>
+<br>
+
 <img width="7719" height="4424" alt="sensitivity_v601" src="https://github.com/user-attachments/assets/c70d592c-6d9d-4af2-8ca2-a93f600c6b62" />
+
+<br>
+<br>
 
 ## 🔬 Figure 3: Comprehensive 2D Parameter Sweep (Temperature vs. pH Phase Space)
 
