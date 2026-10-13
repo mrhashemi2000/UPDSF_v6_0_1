@@ -36,7 +36,7 @@ The Complete Provenance-Tracked Parameter List for UPDSF v6.0.1 Model can be fou
 
 ### Why a Detailed Parameter List?
 
-The use of a structured Parameter List (available in `Parameter List for UPDSF v6.0.1 Model.docx`) serves four critical purposes:
+The use of a structured Parameter List serves four critical purposes:
 
 1. Scientific Reproducibility: By explicitly listing all 95 core parameters, any researcher can replicate the exact simulation environment and verify the results without ambiguity.
 2. Source Accountability (Provenance): Each parameter is tagged with a specific Kind, allowing for a clear distinction between:
