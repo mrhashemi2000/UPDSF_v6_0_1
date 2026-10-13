@@ -23,6 +23,16 @@ The model is robust across multiple orders of magnitude of UV flux, with hydroly
 
 To ensure the scientific integrity and reproducibility of the *UPDSF v6.0.1 model, we employ a rigorous Provenance-Tracking System for all model parameters. Instead of using "hard-coded" constants, every numerical value is encapsulated in a `Source` object.
 
+<br>
+<br>
+
+📂 **Detailed UPDSF v6.0.1 model Parameter List**
+
+The Detailed UPDSF v6.0.1 model Parameter List can be found in the 📄 [Detailed Parameter List](data/Parameter_List_for_UPDSF_v6.0.1_Model.docx)
+
+<br>
+<br>
+
 ### Why a Detailed Parameter List?
 
 The use of a structured Parameter List (available in `Parameter List for UPDSF v6.0.1 Model.docx`) serves four critical purposes:
