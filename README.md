@@ -18,6 +18,15 @@ Environment: 🐍 Python 3.8+
 The model is robust across multiple orders of magnitude of UV flux, with hydrolysis remaining the dominant selective force under alkaline hydrothermal conditions. It is critical to note that this model demonstrates chemical filtering, not Darwinian evolution. However, these results suggest that in alkaline hydrothermal scenarios, differential nucleobase stability provided a significant selective advantage for thymine incorporation into early genetic polymers, potentially paving the way for the transition from RNA to DNA.
 
 
+
+---
+
+## What this is
+
+A stochastic kinetic Monte Carlo model that quantifies **chemical filtering of thymine (T) over uracil (U)** under prebiotic alkaline hydrothermal conditions. The model simulates competition between U and T across a (temperature, pH) grid using literature-derived hydrolysis rates, UV cross-sections, and deamination kinetics, and decomposes the resulting enrichment into two mechanistically distinct channels.
+
+**Central claim:** Chemical filtering of T over U is **theoretically real** — it follows from experimentally established differences in N-glycosidic bond stability, UV cross-section, and pKa between the two bases, and it produces reproducible T-enrichment without requiring Darwinian evolution.
+
 ---
 ## 🛠️ Parameter Provenance & Model Transparency
 
