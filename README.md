@@ -84,6 +84,8 @@ By disclosing the exact ratio of literature-to-assumed parameters, we move away 
 # The enrichment of T is thermodynamically and kinetically inevitable.
 The script's alteration of $E_{a_U}$ from $27.0$ to $35.0\text{ kcal/mol}$ makes Uracil more thermally stable. But it still leaves Thymine (T) slightly more stable ($E_{a_T} = 35.3$). 
 
+Extrapolated stability ratio k_U/k_T ≈ 357× at 90 °C / pH 11 [Arrhenius extrapolation from 25 °C reference rates; sensitive to the assumed Ea_T − Ea_U ≈ 5 kcal/mol; not directly measured at this condition]. The direction (U less stable than T at high T) is well-supported; the magnitude is uncertain by ~±2 orders of magnitude.
+
 The theoretical fact is that T's 5-methyl group (which U lacks) always provides a slight thermodynamic edge. The new script didn't break the model; it just narrowed the gap, proving that even a tiny kinetic difference (a $4.8\times$ ratio instead of $357\times$) is sufficient to drive T-enrichment over 240 hours.
  
 The deeper theoretical truth is that the simulation architecture is a faithful representation of a chemical filter.
